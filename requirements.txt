@@ -1,0 +1,6 @@
+Install required packages using pip install 
+flask 
+flask-bcrypt 
+flask_sqlalchemy 
+flask_sslify 
+flask-talisman.
